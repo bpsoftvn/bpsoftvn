@@ -4,7 +4,7 @@
 
 #-*--🌷|My-*--#
 #EXTINF:-1 tvg-id="antg" group-title="🌷|My"  tvg-logo="https://cdn.hqth.me/logo/thumbs/100.png", An Ninh Thế Giới
-https://code.vthanhtivi.pw/getlink/tv360/21/0.m3u8
+https://code.vthanhtivi.pw/getlink/tv360/21/1.m3u8
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🌷|My" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${end}.m3u8", VTV1
 https://livecdn-vthn-vnw.vieon.vn/vtc_staging/livetv/hd_vtv1/playlist.m3u8
