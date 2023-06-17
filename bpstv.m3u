@@ -2,12 +2,58 @@
 
 
 
-#-*--🌷|My-*--#
-#EXTINF:-1 tvg-id="antg" group-title="🌷|My"  tvg-logo="https://cdn.hqth.me/logo/thumbs/100.png", An Ninh Thế Giới
+#-*--TS FPT-*--#
+#EXTINF:-1 tvg-id="antg" group-title="TS FPT"  tvg-logo="https://cdn.hqth.me/logo/thumbs/100.png", An Ninh Thế Giới
 https://code.vthanhtivi.pw/getlink/tv360/21/1.m3u8
 #https://code.vthanhtivi.pw/getlink/tv360/21/2.m3u8
 #https://code.vthanhtivi.pw/getlink/tv360/21/0.m3u8
 
+#EXTINF:-1 tvg-id="antvhd" group-title="TS FPT" tvg-logo="https://cdn.hqth.me/logo/thumbs/90.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD
+https://livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="ttxvnhd" group-title="TS FPT" tvg-logo="https://cdn.hqth.me/logo/thumbs/91.png", VNews
+http://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
+#https://livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
+#https://16371213858134.vnns.net/ttxvn_abr/vtc130121/ttxvn-1080p/chunks.m3u8
+
+
+#EXTINF:-1 tvg-id="nhandan" group-title="TS FPT" tvg-logo="https://cdn.hqth.me/logo/thumbs/92.png", Nhân Dân TV
+https://vips-livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="quochoi" group-title="TS FPT" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quochoivn_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Quốc Hội HD
+https://livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="qpvnhd" group-title="TS FPT" tvg-logo="https://cdn.hqth.me/logo/thumbs/94.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quocphongvnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", QPVN HD
+https://livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_4000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="vovtvhd" group-title="TS FPT" tvg-logo="https://cdn.hqth.me/logo/thumbs/95.png", VOVTV HD
+http://103.90.220.236/vovlive/tv1live.m3u8
+
+
+
+#-*--TS VTVcab-*--#
+#EXTINF:-1 tvg-id="antvhd" group-title="TS VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/ab/ANTV_HD_logo_12-2016.png/revision/latest/scale-to-width-down/200?cb=20220731132900&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD
+https://liveh34.vtvcab.vn/hls/ONANTV_CL/index.m3u8
+
+#EXTINF:-1 tvg-id="ttxvnhd" group-title="TS VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8d/VNews.png/revision/latest/scale-to-width-down/170?cb=20201020100923&path-prefix=vi", VNews HD
+https://liveh34.vtvcab.vn/hls/TTXVN_VNEWS/index.m3u8
+
+#EXTINF:-1 tvg-id="nhandan" group-title="TS VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/79/Logo_Nh%C3%A2n_D%C3%A2n_TV_%28Logo_m%C3%A0n_h%C3%ACnh%2C_B%E1%BA%A3n_1%29.png/revision/latest/scale-to-width-down/200?cb=20220420134940&path-prefix=vi", Nhân Dân HD
+https://liveh34.vtvcab.vn/hls/ONNHANDAN_CL/index.m3u8
+#https://livecdn-vthcm-vnw.vieon.vn/htv_drm/live/nhan_dan/playlist.m3u8
+#https://code.vthanhtivi.pw/getlink/vieon/nhan-dan-hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="quochoi" group-title="TS VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/50/KenhQuocHoi_HD_logo_15-06-2022.png/revision/latest/scale-to-width-down/200?cb=20220615113407&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quochoivn_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Quốc Hội HD
+https://liveh12.vtvcab.vn/hls/ONQUOCHOI_CL/index.m3u8
+
+#EXTINF:-1 tvg-id="qpvnhd" group-title="TS VTVcab" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5d/QPVN.png/revision/latest/scale-to-width-down/200?cb=20220827083916&path-prefix=vi" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quocphongvnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", QPVN HD
+https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/index.m3u8
+#https://code.vthanhtivi.pw/getlink/mytv/227/hd.m3u8
+
+
+
+#-*--🌷|My-*--#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🌷|My" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${end}.m3u8", VTV1
 https://livecdn-vthn-vnw.vieon.vn/vtc_staging/livetv/hd_vtv1/playlist.m3u8
 #https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
@@ -997,25 +1043,6 @@ http://live.vthanhtivi.pw/ngw
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="🌿| Khám phá" tvg-logo="https://cdn.hqth.me/logo/thumbs/208.png", Outdoor Channel HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
-
-
-
-#-*--Thiết yếu-*--#
-#EXTINF:-1 tvg-id="antvhd" group-title="🌐| Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/90.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/anninhtv_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ANTV HD
-https://livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="ttxvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/91.png", VNews
-#https://16371213858134.vnns.net/ttxvn_abr/vtc130121/ttxvn-1080p/chunks.m3u8
-http://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="nhandan" group-title="🌐| Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/92.png", Nhân Dân TV
-#https://code.vthanhtivi.pw/getlink/vieon/nhan-dan-hd/playlist.m3u8
-https://vips-livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-id="quochoi" group-title="🌐| Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/93.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quochoivn_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Quốc Hội HD
-https://livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="qpvnhd" group-title="🌐| Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/94.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/quocphongvnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", QPVN HD
-https://livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="vovtvhd" group-title="🌐| Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/95.png", VOVTV HD
-http://103.90.220.236/vovlive/tv1live.m3u8
 
 
 
