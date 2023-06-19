@@ -1,6 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml.gz,https://iptv-org.github.io/epg/guides/jp/tvguide.myjcom.jp.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml.gz,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml.gz,http://lichphatsong.xyz/schedule/epg.xml"
-
-
+#EXTM3U url-tvg=" http://lichphatsong.xyz/schedule/epg.xml,http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"
 
 #-*--TS FPT-*--#
 #EXTINF:-1 tvg-id="antg" group-title="TS FPT"  tvg-logo="https://cdn.hqth.me/logo/thumbs/100.png", An Ninh Thế Giới
