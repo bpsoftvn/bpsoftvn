@@ -1,7 +1,9 @@
-#EXTM3U url-tvg=" http://lichphatsong.xyz/schedule/epg.xml,http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"
+
+
 
 #-*--TS FPT-*--#
-#EXTINF:-1 tvg-id="antg" group-title="TS FPT"  tvg-logo="https://cdn.hqth.me/logo/thumbs/100.png", An Ninh Thế Giới
+#EXTINF:-1 tvg-id="antg" group-title="TS FPT" tvg-logo="https://cdn.hqth.me/logo/thumbs/100.png", An Ninh Thế Giới
 https://code.vthanhtivi.pw/getlink/tv360/21/1.m3u8
 #https://code.vthanhtivi.pw/getlink/tv360/21/2.m3u8
 #https://code.vthanhtivi.pw/getlink/tv360/21/0.m3u8
@@ -157,17 +159,6 @@ http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
 #https://tinchuanchuaanh.com/hls/v1/e1.endpoint.cdn.sctvonline.vn/channel/sctv9/index.m3u8
 https://s6.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e5.endpoint.cdn.sctvonline.vn/nginx.s6.edge.cdn.sctvonline.vn/hls/sctv9/index.m3u8|Referer=http://sctvonline.vn/
 
-#EXTINF:-1 tvg-id="sctv14hd" group-title="Film" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/21/SCTV14.png/revision/latest?cb=20210820042328&path-prefix=vi",SCTV14 - Kênh phim Việt
-
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-
-https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist.m3u8
-
- 
-#EXTINF:-1 tvg-id="sctv16hd" group-title="Film" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/8f/SCTV16-2.png/revision/latest?cb=20210820043927&path-prefix=vi",SCTV16 - Phim nước ngoài đặc sắc
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/s1/index.m3u8
-
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="Film" tvg-logo="https://cdn.hqth.me/logo/thumbs/102.png", SCTV HD Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #https://tinchuanchuaanh.com/hls/v1/e8.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8
@@ -182,39 +173,39 @@ http://103.77.175.153/b4tv/b4tv/2.m3u8
 
 #-*--K+ Suu Tam-*--#
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+ ST" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest?cb=20220127020318&path-prefix=vi", K+ CINE
-http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UsjgB5aa27hGeyLrtm8iFPg/m3u8
+http://103.77.175.153:80/play/4QwRtVvD1xJIP-l7j-o7UsjgB5aa27hGeyLrtm8iFPg/m3u8
 #EXTINF:-1 tvg-id="klifehd" group-title="K+ ST" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f1/Kplus_Life.png/revision/latest?cb=20220127020322&path-prefix=vi", K+ LIFE
-http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7Usol2aJMUP074Y56-_ggO0U/m3u8
+http://103.77.175.153:80/play/4QwRtVvD1xJIP-l7j-o7Usol2aJMUP074Y56-_ggO0U/m3u8
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+ ST" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest?cb=20220127020325&path-prefix=vi", K+ SPORT1
-http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UnEUF_PuDX8GqPgBymlu6t4/m3u8
+http://103.77.175.153:80/play/4QwRtVvD1xJIP-l7j-o7UnEUF_PuDX8GqPgBymlu6t4/m3u8
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+ ST" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/Kplus_Sport_2.png/revision/latest?cb=20220127020328&path-prefix=vi", K+ SPORT2
-http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UgcPGlnD-MJPZMusJsDI3Ks/m3u8
+http://103.77.175.153:80/play/4QwRtVvD1xJIP-l7j-o7UgcPGlnD-MJPZMusJsDI3Ks/m3u8
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+ ST" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest?cb=20220127020331&path-prefix=vi", K+ KIDS
-http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UoV5xpvhATik9MxS30MbZHo/m3u8
+http://103.77.175.153:80/play/4QwRtVvD1xJIP-l7j-o7UoV5xpvhATik9MxS30MbZHo/m3u8
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+ ST" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest?cb=20220127020331&path-prefix=vi", K+ KIDS
-http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UiuY1S-0OWBzFZlUrRMilig/m3u8
+http://103.77.175.153:80/play/4QwRtVvD1xJIP-l7j-o7UiuY1S-0OWBzFZlUrRMilig/m3u8
 #EXTINF:-1  tvg-id="klive1hd" group-title="K+ ST" tvg-logo="https://raw.githubusercontent.com/Hannstcott/SunshineTr/main/logo%20k%2B/MyK%252B_Live_1.png", K+ LIVE1
-http://103.75.186.169:80/play/4QwRtVvD1xJIP-l7j-o7UrdnxChp5W1MZUVdvbbQ69g/m3u8
+http://103.77.175.153:80/play/4QwRtVvD1xJIP-l7j-o7UrdnxChp5W1MZUVdvbbQ69g/m3u8
 
 
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+ ST" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-kcine-hd.png", K+ CINE
-http://103.75.186.169/b4tv/b4tv/6.m3u8
+http://103.77.175.153/b4tv/b4tv/6.m3u8
 
 #EXTINF:-1 tvg-id="klifehd" group-title="K+ ST" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-klife-hd.png", K+ LIFE
-http://103.75.186.169/b4tv/b4tv/7.m3u8
+http://103.77.175.153/b4tv/b4tv/7.m3u8
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+ ST" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport1-hd.png", K+ SPORT1
 
-http://103.75.186.169:80/play/PlJVLeh3OFlevh__G-rmB1AvYFUW5dZskZULjJDlbfnmKk-QtYB5XoJRLUQpKdUJ/m3u8
+http://103.77.175.153:80/play/PlJVLeh3OFlevh__G-rmB1AvYFUW5dZskZULjJDlbfnmKk-QtYB5XoJRLUQpKdUJ/m3u8
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+ ST" tvg-logo="https://ad.kplus.vn/cdn/content/upload/1/root/logo-k-sport2-hd.png", K+ SPORT2
-http://103.75.186.169:80/play/PlJVLeh3OFlevh__G-rmB1AvYFUW5dZskZULjJDlbfmheWSCYR_J4uV2imYSMWRX/m3u8
+http://103.77.175.153:80/play/PlJVLeh3OFlevh__G-rmB1AvYFUW5dZskZULjJDlbfmheWSCYR_J4uV2imYSMWRX/m3u8
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+ ST" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest?cb=20220127020331&path-prefix=vi", K+ KIDS
-http://103.75.186.169:80/play/PlJVLeh3OFlevh__G-rmB1AvYFUW5dZskZULjJDlbfmgy7Nd0u0pYnu0-bIPoLpx/m3u8
+http://103.77.175.153:80/play/PlJVLeh3OFlevh__G-rmB1AvYFUW5dZskZULjJDlbfmgy7Nd0u0pYnu0-bIPoLpx/m3u8
 #EXTINF:-1 tvg-id="klive1hd" group-title="K+ ST" tvg-logo="https://raw.githubusercontent.com/Hannstcott/SunshineTr/main/logo%20k%2B/MyK%252B_Live_1.png", K+ LIVE 1
-http://103.75.186.169:80/play/PlJVLeh3OFlevh__G-rmB1AvYFUW5dZskZULjJDlbfkqrOLMG0j0AMXFhhzn1uCP/m3u8
+http://103.77.175.153:80/play/PlJVLeh3OFlevh__G-rmB1AvYFUW5dZskZULjJDlbfkqrOLMG0j0AMXFhhzn1uCP/m3u8
 
 
 
@@ -2080,65 +2071,65 @@ http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6190/index.m3u8
 
 #-*--💜|B4TV-*--#
 #EXTINF:-1 tvg-id="" group-title="💜|B4TV", B4TV1 K+ SPORT1
-http://103.75.186.169/b4tv/b4tv/1.m3u8
+http://103.77.175.153/b4tv/b4tv/1.m3u8
 #EXTINF:-1 tvg-id="" group-title="💜|B4TV", B4TV2 Film
-http://103.75.186.169/b4tv/b4tv/2.m3u8
+http://103.77.175.153/b4tv/b4tv/2.m3u8
 #EXTINF:-1 tvg-id="" group-title="💜|B4TV", B4TV3 
-http://103.75.186.169/b4tv/b4tv/3.m3u8
+http://103.77.175.153/b4tv/b4tv/3.m3u8
 #EXTINF:-1 tvg-id="" group-title="💜|B4TV", B4TV4
-http://103.75.186.169/b4tv/b4tv/4.m3u8
+http://103.77.175.153/b4tv/b4tv/4.m3u8
 #EXTINF:-1 tvg-id="" group-title="💜|B4TV", B4TV5
-http://103.75.186.169/b4tv/b4tv/5.m3u8
+http://103.77.175.153/b4tv/b4tv/5.m3u8
 #EXTINF:-1 tvg-id="" group-title="💜|B4TV", B4TV6
-http://103.75.186.169/b4tv/b4tv/6.m3u8
+http://103.77.175.153/b4tv/b4tv/6.m3u8
 #EXTINF:-1 tvg-id="" group-title="💜|B4TV", B4TV7
-http://103.75.186.169/b4tv/b4tv/7.m3u8
+http://103.77.175.153/b4tv/b4tv/7.m3u8
 #EXTINF:-1 tvg-id="" group-title="💜|B4TV", B4TV8
-http://103.75.186.169/b4tv/b4tv/8.m3u8
+http://103.77.175.153/b4tv/b4tv/8.m3u8
 #EXTINF:-1 tvg-id="" group-title="💜|B4TV", B4TV9
-http://103.75.186.169/b4tv/b4tv/9.m3u8
+http://103.77.175.153/b4tv/b4tv/9.m3u8
 #EXTINF:-1 tvg-id="" group-title="💜|B4TV", B4TV10
-http://103.75.186.169/b4tv/b4tv/10.m3u8
+http://103.77.175.153/b4tv/b4tv/10.m3u8
 #EXTINF:-1 tvg-id="" group-title="💜|B4TV", B4TV11
-http://103.75.186.169/b4tv/b4tv/11.m3u8
+http://103.77.175.153/b4tv/b4tv/11.m3u8
 #EXTINF:-1 tvg-id="" group-title="💜|B4TV", B4TV12
-http://103.75.186.169/b4tv/b4tv/12.m3u8
+http://103.77.175.153/b4tv/b4tv/12.m3u8
 
 
 
 #-*--💜|B4VIP-*--#
 #EXTINF:-1 tvg-id="" group-title="💜|B4VIP", B4VIP1
-http://103.75.186.169/b4vip/b4vip/1.m3u8
+http://103.77.175.153/b4vip/b4vip/1.m3u8
 #EXTINF:-1 tvg-id="" group-title="💜|B4VIP", B4VIP2
-http://103.75.186.169/b4vip/b4vip/2.m3u8
+http://103.77.175.153/b4vip/b4vip/2.m3u8
 #EXTINF:-1 tvg-id="" group-title="💜|B4VIP", B4VIP3
-http://103.75.186.169/b4vip/b4vip/3.m3u8
+http://103.77.175.153/b4vip/b4vip/3.m3u8
 #EXTINF:-1 tvg-id="" group-title="💜|B4VIP", B4VIP4
-http://103.75.186.169/b4vip/b4vip/4.m3u8
+http://103.77.175.153/b4vip/b4vip/4.m3u8
 #EXTINF:-1 tvg-id="" group-title="💜|B4VIP", B4VIP5
-http://103.75.186.169/b4vip/b4vip/5.m3u8
+http://103.77.175.153/b4vip/b4vip/5.m3u8
 #EXTINF:-1 tvg-id="" group-title="💜|B4VIP", B4VIP6
-http://103.75.186.169/b4vip/b4vip/6.m3u8
+http://103.77.175.153/b4vip/b4vip/6.m3u8
 #EXTINF:-1 tvg-id="" group-title="💜|B4VIP", B4VIP7
-http://103.75.186.169/b4vip/b4vip/7.m3u8
+http://103.77.175.153/b4vip/b4vip/7.m3u8
 #EXTINF:-1 tvg-id="" group-title="💜|B4VIP", B4VIP8
-http://103.75.186.169/b4vip/b4vip/8.m3u8
+http://103.77.175.153/b4vip/b4vip/8.m3u8
 #EXTINF:-1 tvg-id="" group-title="💜|B4VIP", B4VIP9
-http://103.75.186.169/b4vip/b4vip/9.m3u8
+http://103.77.175.153/b4vip/b4vip/9.m3u8
 #EXTINF:-1 tvg-id="" group-title="💜|B4VIP", B4VIP10
-http://103.75.186.169/b4vip/b4vip/10.m3u8
+http://103.77.175.153/b4vip/b4vip/10.m3u8
 #EXTINF:-1 tvg-id="" group-title="💜|B4VIP", B4VIP11
-http://103.75.186.169/b4vip/b4vip/12.m3u8
+http://103.77.175.153/b4vip/b4vip/12.m3u8
 #EXTINF:-1 tvg-id="" group-title="💜|B4VIP", B4VIP12
-http://103.75.186.169/b4vip/b4vip/612.m3u8
+http://103.77.175.153/b4vip/b4vip/612.m3u8
 #EXTINF:-1 tvg-id="" group-title="💜|B4VIP", B4VIP13
-http://103.75.186.169/b4vip/b4vip/13.m3u8
+http://103.77.175.153/b4vip/b4vip/13.m3u8
 #EXTINF:-1 tvg-id="" group-title="💜|B4VIP", B4VIP14
-http://103.75.186.169/b4vip/b4vip/14.m3u8
+http://103.77.175.153/b4vip/b4vip/14.m3u8
 #EXTINF:-1 tvg-id="" group-title="💜|B4VIP", B4VIP15
-http://103.75.186.169/b4vip/b4vip/15.m3u8
+http://103.77.175.153/b4vip/b4vip/15.m3u8
 #EXTINF:-1 tvg-id="" group-title="💜|B4VIP", B4VIP16
-http://103.75.186.169/b4vip/b4vip/16.m3u8
+http://103.77.175.153/b4vip/b4vip/16.m3u8
 
 
 
@@ -2149,15 +2140,15 @@ http://103.75.186.169/b4vip/b4vip/16.m3u8
 #EXTINF:-1 tvg-id="klifehd" group-title="FPT K+" tvg-logo="https://logo.anttv.xyz/97.png", K+ LIFE HD iptv No
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="FPT K+" tvg-logo="https://logo.anttv.xyz/98.png", K+ SPORT1 HD iptv
-http://103.75.186.169:80/play/BdrytHkMhSioDCl2Srz0zk-BwM7YJFVOSWiYGHFoXDQ/ts
+http://103.77.175.153:80/play/BdrytHkMhSioDCl2Srz0zk-BwM7YJFVOSWiYGHFoXDQ/ts
 
 #EXTINF:-1 tvg-id="ksport2hd" group-title="FPT K+" tvg-logo="https://logo.anttv.xyz/99.png", K+ SPORT2 HD iptv
-http://103.75.186.169:80/play/BdrytHkMhSioDCl2Srz0zn3CsNE4Rq793x4_NnBJHO4/ts
+http://103.77.175.153:80/play/BdrytHkMhSioDCl2Srz0zn3CsNE4Rq793x4_NnBJHO4/ts
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="FPT K+" tvg-logo="https://logo.anttv.xyz/100.png", K+ KIDS HD iptv
-http://103.75.186.169:80/play/BdrytHkMhSioDCl2Srz0zrRKGlP2c4VXUsP19m_psPI/ts
+http://103.77.175.153:80/play/BdrytHkMhSioDCl2Srz0zrRKGlP2c4VXUsP19m_psPI/ts
 #EXTINF:-1 tvg-id="klifehd" group-title="FPT K+" tvg-logo="https://logo.anttv.xyz/101.png", K+ LIVE1 HD iptv
-http://103.75.186.169:80/play/BdrytHkMhSioDCl2Srz0znN04wfi_qg1UOcZo5lfF6w/ts
+http://103.77.175.153:80/play/BdrytHkMhSioDCl2Srz0znN04wfi_qg1UOcZo5lfF6w/ts
 
 
 
