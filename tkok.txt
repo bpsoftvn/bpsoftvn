@@ -1,3 +1,12 @@
+RAI 1 HD --key c8208c2bdcbbc51f05e49ecb7d9483cc:e6c2d5abfacb8ea769d681015cdf91b3 https://cdnmanager.melitacable.com/ch043/ch043.isml/manifest.mpd
+
+RAI 2 HD --key 84b956cebacb7599a1e066e44d4f5f01:779205e1fcab39cb2545e887879f385d https://cdnmanager.melitacable.com/ch039/ch039.isml/manifest.mpd
+
+RAI 3 HD --key c37a5ce407a029a507dfe4691428ed01:6d4db5541a1b85177969feb618f4cf4e https://cdnmanager.melitacable.com/ch042/ch042.isml/manifest.mpd
+
+
+
+
 FIFA WOMEN'S 2023 TRUYỀN HÌNH MYTV
 HNITV00455247:123
 HNITV00342178:123
