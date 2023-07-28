@@ -1,3 +1,31 @@
+VIEON
+0912222392	123456	VIP - 03 Tháng	2023-07-30	Không	Voucher	165000đ	2												
+0942475591	123456	VIP - 01 Tháng	2023-07-30	Không	Voucher	79000đ	2												
+0942644901	123456	VIP HBO GO - 03 Tháng - Tự động gia hạn	2023-07-30	Có	IAP	269000đ	2												
+0943033700	123456	VIP - 01 Tháng	2023-07-30	Không	Voucher	79000đ	2												
+0985698190	111111	VIP - Không tự động gia hạn	2023-07-31	Không	Voucher	165000đ	3												
+0987598921	111111	VIP - 03 Tháng	2023-07-31	Không	Voucher	165000đ	3												
+0987956560	111111	VIP - 03 Tháng	2023-07-31	Không	Voucher	165000đ	3												
+0912889999	123456	VIP - 03 Tháng	2023-07-31	Không	Voucher	165000đ	3												
+0989514462	123456	VIP - 03 Tháng	2023-07-31	Không	Voucher	165000đ	3												
+0907208155	123456	VIP - 03 Tháng	2023-07-31	Không	Voucher	165000đ	3												
+0363691769	123456	VIP - 06 Tháng	2023-07-31	Không	Voucher	369000đ	3												
+0982566721	123456	VIP - 03 Tháng	2023-07-31	Không	Voucher	165000đ	3												
+0913252544	123456	VIP K  - 03 Tháng	2023-07-31	Không	Voucher	399000đ	3												
+0989585537	123456	VIP - 03 Tháng	2023-07-31	Không	Voucher	165000đ	3												
+0395790330	123456	All Access - 06 Tháng	2023-07-31	Không	Voucher	1099000đ	3												
+0945452854	123456	VIP K  - 03 Tháng	2023-07-31	Không	Voucher	399000đ	3												
+0982817052	123456	VIP - 03 Tháng	2023-07-31	Không	Voucher	165000đ	3												
+0365652475	123456	VIP - 06 Tháng	2023-07-31	Không	Voucher	369000đ	3												
+0912251884	123456	VIP - 03 Tháng	2023-07-31	Không	Voucher	165000đ	3												
+0942227077	123456	VIP - 03 Tháng	2023-07-31	Không	Voucher	165000đ	3												
+0976687109	123456	VIP - 03 Tháng	2023-07-31	Không	Voucher	165000đ	3												
+0976752368	123456	VIP - 03 Tháng	2023-07-31	Không	Voucher	165000đ	3												
+0943789568	123456	VIP - 03 Tháng	2023-07-31	Không	Voucher	165000đ	3												
+0944463939	123456	VIP - 01 Tháng - Tự động gia hạn	2023-07-31	Có	WALLET	69000đ	3
+
+
+
 0943410238	123456	VIP - 01 Tháng	2023-07-25	Không	Voucher	79000đ	3												
 0944194427	123456	VIP - 01 Tháng	2023-07-25	Không	Voucher	79000đ	3												
 0985808764	111111	VIP - Không tự động gia hạn	26/07/2023	Không	Voucher	165000đ	4												
