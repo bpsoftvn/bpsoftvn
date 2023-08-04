@@ -1,4 +1,7 @@
-
+HIT = 0366296661:123456|Gói: VIP - 06 Tháng|ngày hết hạn: 2023-10-28| số ngày còn lại: 84|Tự động gia hạn: False| Thiết bị đang sử dụng: 10 
+HIT = 0366535343:123456|Gói: VIP - 06 Tháng|ngày hết hạn: 2024-06-24| số ngày còn lại: 324|Tự động gia hạn: False| Thiết bị đang sử dụng: 5 
+HIT = 0352598552:123456|Gói: VIP - 01 Tháng - Tự động gia hạn|ngày hết hạn: 2023-08-27| số ngày còn lại: 22|Tự động gia hạn: True| Thiết bị đang sử dụng: 3 
+HIT = 0342656090:123456|Gói: VIP - 01 Tháng|ngày hết hạn: 2023-08-13| số ngày còn lại: 8|Tự động gia hạn: False| Thiết bị đang sử dụng: 2 
 
 
 
