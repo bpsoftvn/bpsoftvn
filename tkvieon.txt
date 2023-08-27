@@ -1,3 +1,68 @@
+VIEON
+0976920752	123456	VIP - 03 Tháng	2023-08-28	Không	Voucher	165000đ	1												
+0933720082	123456	VIP - 06 Tháng	2023-08-28	Không	Voucher	369000đ	1												
+0375092302	123456	VIP - 01 Tháng	2023-08-28	Không	Voucher	79000đ	1												
+0387077324	123456	VIP - 03 Tháng	2023-08-28	Không	Voucher	165000đ	1												
+0347495526	123456	VIP - 01 Tháng - Tự động gia hạn	2023-08-28	Có	IAP	75000đ	1												
+0384054391	123456	VIP - 03 Tháng	2023-08-28	Không	Voucher	165000đ	1												
+0943500257	123456	VIP HBO GO - 01 Tháng - Tự động gia hạn	2023-08-29	Có	IAP	109000đ	2												
+0365624909	123456	VIP - 01 Tháng - Tự động gia hạn	2023-08-29	Có	IAP	75000đ	2												
+0943617988	123456	VIP - 03 Tháng	2023-08-29	Không	Voucher	165000đ	2												
+0395996267	123456	VIP - 03 Tháng	2023-08-29	Không	Voucher	165000đ	2												
+0396234931	123456	VIP - 03 Tháng	2023-08-29	Không	Voucher	165000đ	2												
+0945772229	123456	VIP - 01 Tháng	2023-08-29	Không	Voucher	79000đ	2												
+0944005854	123456	VIP - 03 Tháng - Tự động gia hạn	2023-08-29	Có	IAP	179000đ	2												
+0964425665	123456	VIP - 06 Tháng	2023-08-29	Có	IAP	75000đ	2												
+0395645044	123456	VIP - 03 Tháng	2023-08-29	Không	Voucher	165000đ	2												
+0944168041	123456	VIP - 03 Tháng	2023-08-29	Không	Voucher	165000đ	2												
+0906723832	123456	VIP - 01 Tháng - Tự động gia hạn	2023-08-29	Có	IAP	75000đ	2												
+0975052268	123456	VIP - 03 Tháng - Tự động gia hạn	2023-08-29	Có	IAP	179000đ	2												
+0336109940	123456	VIP - 03 Tháng	2023-08-29	Không	Voucher	165000đ	2												
+0365844894	123456	VIP - 03 Tháng	2023-08-29	Không	Voucher	165000đ	2												
+0907645228	123456	VIP - 01 Tháng	2023-08-29	Không	Voucher	79000đ	2												
+0336176288	123456	VIP - 01 Tháng	2023-08-29	Không	Voucher	79000đ	2												
+0347439090	123456	VIP - 03 Tháng	2023-08-29	Không	Voucher	165000đ	2												
+0976846648	123456	VIP - 01 Tháng - Tự động gia hạn	2023-08-29	Có	IAP	75000đ	2												
+0976942837	123456	VIP - 01 Tháng	2023-08-29	Không	Voucher	79000đ	2												
+0948293322	123456	VIP - 01 Tháng	2023-08-29	Không	Voucher	79000đ	2												
+0366150302	123456	VIP - 01 Tháng - Tự động gia hạn	2023-08-29	Có	IAP	75000đ	2												
+0376414208	123456	VIP - 03 Tháng	2023-08-29	Không	Voucher	165000đ	2												
+0396810232	123456	VIP - 01 Tháng	2023-08-29	Không	Voucher	79000đ	2												
+0977149226	123456	VIP - 01 Tháng	2023-08-29	Không	Voucher	79000đ	2												
+0943831617	123456	VIP - 01 Tháng - Tự động gia hạn	2023-08-30	Có	IAP	75000đ	3												
+0354678876	123456	VIP HBO GO - 01 Tháng - Tự động gia hạn	2023-08-30	Có	IAP	109000đ	3												
+0906754503	123456	VIP - 01 Tháng	2023-08-30	Không	WALLET	79000đ	3												
+0945441785	123456	VIP - 01 Tháng - Tự động gia hạn	2023-08-30	Có	IAP	75000đ	3
+
+
+
+0907132937	123456	VIP - 01 Tháng	2023-08-30	Không	Voucher	79000đ	3												
+0975101872	123456	VIP - 03 Tháng	2023-08-30	Không	Voucher	165000đ	3												
+0376089520	123456	VIP - 01 Tháng	2023-08-30	Không	Voucher	79000đ	3												
+0396678372	123456	VIP - 03 Tháng	2023-08-30	Không	Voucher	165000đ	3												
+0903836250	123456	VIP - 01 Tháng - Tự động gia hạn	2023-08-30	Có	AsiaPay	69000đ	3												
+0945509995	123456	VIP - 03 Tháng	2023-08-31	Không	Voucher	165000đ	4												
+0904063999	123456	VIP - 06 Tháng	2023-08-31	Có	IAP	219000đ	4												
+0945004994	123456	VIP - 03 Tháng - Tự động gia hạn	2023-08-31	Có	IAP	179000đ	4												
+0906978769	123456	VIP - 01 Tháng	2023-08-31	Không	WALLET	79000đ	4												
+0375205612	123456	VIP - 01 Tháng - Tự động gia hạn	2023-08-31	Có	IAP	69000đ	4												
+0365855398	123456	VIP - 01 Tháng - Tự động gia hạn	2023-08-31	Có	IAP	75000đ	4												
+0387263863	123456	VIP - 01 Tháng	2023-08-31	Không	Voucher	79000đ	4												
+0357007939	123456	VIP - 01 Tháng	2023-08-31	Không	Voucher	79000đ	4												
+0376410155	123456	VIP - 01 Tháng	2023-08-31	Không	Voucher	79000đ	4												
+0988001193	111111	VIP - 06 Tháng	2023-09-01	Có	IAP	619000đ	5												
+0335584356	123456	VIP - 06 Tháng	2023-09-01	Không	Voucher	369000đ	5												
+0908276472	123456	VIP - 06 Tháng	2023-09-01	Không	Voucher	369000đ	5												
+0944000181	123456	VIP - 03 Tháng	2023-09-01	Không	Voucher	165000đ	5												
+0944515415	123456	VIP - 03 Tháng	2023-09-01	Không	Voucher	165000đ	5												
+0942666648	123456	VIP - VE66	2023-09-01	Không	SMS	66000đ	5												
+0942953458	123456	VIP - 03 Tháng	2023-09-01	Không	Voucher	165000đ	5												
+0943253460	123456	VIP - 03 Tháng	2023-09-01	Không	Voucher	165000đ	5												
+0944345515	654321	VIP - VE66	2023-09-01	Không	SMS	66000đ	5												
+0834433292	123456	VIP - VE66	2023-09-01	Không	SMS	66000đ	5
+
+
+
 FPTPLAY
 0395926990	123456	Gói MAX	01/09/2023	27																								
 0368021735	123456	Gói MAX	01/09/2023	27																								
