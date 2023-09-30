@@ -22,6 +22,19 @@ https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="htvcdulichhd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/58.png", HTVC Du lịch Cuộc sống HD
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htv7hd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/51.png", HTV7 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/vieon/htv7-hd/playlist.m3u8
+#EXTINF:-1 tvg-id="htv9hd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/52.png", HTV9 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://code.vthanhtivi.pw/getlink/vieon/htv9-hd/playlist.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/vtv1-hd/playlist.m3u8
@@ -53,17 +66,6 @@ https://code.vthanhtivi.pw/getlink/vieon/vtv9-hd/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/vtv-can-tho/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="htv7hd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/51.png", HTV7 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon/htv7-hd/playlist.m3u8
-#EXTINF:-1 tvg-id="htv9hd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/52.png", HTV9 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://code.vthanhtivi.pw/getlink/vieon/htv9-hd/playlist.m3u8
 
 
 
