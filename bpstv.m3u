@@ -41,6 +41,9 @@ https://code.vthanhtivi.pw/getlink/vieon/htv9-hd/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="vtv5hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
+https://liveh12.vtvcab.vn/hls/ONVTV5_CL/04.m3u8
+
 #EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/vtv1-hd/playlist.m3u8
@@ -53,8 +56,7 @@ https://code.vthanhtivi.pw/getlink/vieon/vtv3-hd/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png", VTV4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/vtv4-hd/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
-https://code.vthanhtivi.pw/getlink/fptplay/vtv5-hd/chunklist_b5000000.m3u8
+
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://code.vthanhtivi.pw/getlink/vieon/vtv5-tay-nam-bo/playlist.m3u8
