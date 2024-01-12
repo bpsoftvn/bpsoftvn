@@ -1,6 +1,38 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"
 
 
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="🇻🇳| Địa phương" group-logo="https://cdn.hqth.me/logo/category/diaphuong.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1 HD
+https://code.vthanhtivi.pw/getlink/tv360/rECV-kbT2WeGO9Ap-DpJig/1705032702/25/playlist.m3u8
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png", THVL2 HD
+https://code.vthanhtivi.pw/getlink/tv360/SrZC-hw3u00j_VJYTh8lmw/1705032702/26/playlist.m3u8
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/105.png", THVL3 HD
+https://code.vthanhtivi.pw/getlink/tv360/2F-J-zeepcSHjVYaxSvuZA/1705032702/219/playlist.m3u8
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/106.png", THVL4 HD
+https://code.vthanhtivi.pw/getlink/tv360/Gle5Pjz3BED98IYvzKW-Xg/1705032702/220/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" group-logo="https://cdn.hqth.me/logo/category/vtv.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
+https://code.vthanhtivi.pw/getlink/tv360/_vVOgiPM-JvlSeH_yOaOZQ/1705032702/2/playlist.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2
+https://code.vthanhtivi.pw/getlink/tv360/p__npUIifxzxpXe54X7GLg/1705032702/3/playlist.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
+https://code.vthanhtivi.pw/getlink/tv360/eiAQAguVePWGfPj8D_Wj4g/1705032702/4/playlist.m3u8
+#EXTINF:-1 tvg-id="vtv4hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png", VTV4
+https://code.vthanhtivi.pw/getlink/tv360/u4oUblTDdncjQyGqLYOOvg/1705032702/108/playlist.m3u8
+#EXTINF:-1 tvg-id="vtv5hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
+https://liveh12.vtvcab.vn/hls/ONVTV5_CL/04.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
+https://liveh12.vtvcab.vn/hls/ONVTV5TNB_CL/04.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
+https://code.vthanhtivi.pw/getlink/tv360/Y_qGA8C2U9DGmfa1z_UfrQ/1705032702/207/playlist.m3u8
+#EXTINF:-1 tvg-id="vtv7hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png", VTV7
+https://code.vthanhtivi.pw/getlink/tv360/ddmp7XtDYZU_8Zyt7mXfYw/1705032702/6/playlist.m3u8
+#EXTINF:-1 tvg-id="vtv8hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png", VTV8
+https://code.vthanhtivi.pw/getlink/tv360/3rn54N9v0Bgbqq2gpo890A/1705032702/115/playlist.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png", VTV9
+https://code.vthanhtivi.pw/getlink/tv360/RHES-moP5udJ4t1nWHebHQ/1705032702/8/playlist.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
+https://code.vthanhtivi.pw/getlink/tv360/_lNJZm7a6uZlY1KIvOR7Ag/1705032702/98/playlist.m3u8
 
 
 
