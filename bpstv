@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"
 
+#EXTINF:-1 tvg-id="tvbvn" group-title="TVB" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg", TVB VIỆT NAM
+https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="🇻🇳| Địa phương" group-logo="https://cdn.hqth.me/logo/category/diaphuong.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1 HD
 https://code.vthanhtivi.pw/getlink/tv360/RVs4YFg-RlbYiwvtMw_CwQ/1705511814/25/playlist.m3u8
